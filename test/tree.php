@@ -37,7 +37,9 @@ $tree_array = [
 $newick1 = TreeFileFormat::ArrayToNewick($tree_array);
 $newick2 = TreeFileFormat::JsonToNewick($tree_json);
 
+echo $newick1."\n";
 echo $newick1 == $tree_newick ? 'Success' : 'Failed';
 echo "\n";
+echo $newick2."\n"
 echo $newick2 == $tree_newick ? 'Success' : 'Failed';
 echo "\n";

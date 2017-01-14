@@ -4,6 +4,7 @@ namespace BioTools\Tree;
 /**
  * 
  ****** Here Is the Demon of data structure
+ ### 'name' is necessary but branch_length is optional
  $tree_json = '{
 		"name" : "F",
 		"children": [
