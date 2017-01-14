@@ -1,0 +1,17 @@
+{
+    "name": "cugr/biotools",
+    "description": "Provide some tools to biology data manipulate",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liub1993",
+            "email": "598604711@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "BioTools\\": "src/BioTools"
+        }
+    }
+}
