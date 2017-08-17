@@ -5,6 +5,6 @@ Feel free to use!
 composer require cugr/biotools:dev-master
 
 ### TreeFileFormat
-Inspired by (okeeffdp/json_to_newick)[https://github.com/okeeffdp/json_to_newick]
+Inspired by [okeeffdp/json_to_newick](https://github.com/okeeffdp/json_to_newick)
 Convert a json object (or array) to newick format.
 
